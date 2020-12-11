@@ -1,0 +1,23 @@
+{
+  "name": "http-server-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesRobertHugginsNgo/http-server-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesRobertHugginsNgo/http-server-project/issues"
+  },
+  "homepage": "https://github.com/JamesRobertHugginsNgo/http-server-project#readme",
+  "devDependencies": {
+    "eslint": "^7.15.0"
+  }
+}
