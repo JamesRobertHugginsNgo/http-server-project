@@ -13,6 +13,6 @@
 		"sourceType": "module"
 	},
 	"rules": {
-		"semi": "error"
+		"semi": "warn"
 	}
 }
